@@ -1,6 +1,6 @@
 ﻿# Car Cart
 
-Car cart store cars which you want to buy.
+Car cart stores cars which you want to buy.
 
 ## Features
 
